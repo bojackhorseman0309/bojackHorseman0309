@@ -1,12 +1,12 @@
 ### HELLOOOOOOO 🐴
 
-I'm a Software Engineer and believe it or not i'm not 🌠  Bojack Horseman 0309 🌠 (damn you guy who got /bojackhorseman 😩)
+I'm a Software Engineer and believe it or not i'm not 🌠  Bojack Horseman 🌠 (damn you guy who got /bojackhorseman 😩 )
 
 I currently work as a Full Stack Developer. 
 
 Hopefully when i start working on my personal projects you will see repos about software related to web dev, computer graphics, videogames, ML, DL and hpefully contribute to some open source libraries.
 
-The repos that you are seeing now are old college stuff, everything good is private (i swear) lmao 😆.
+The repos that you are seeing now are old college stuff, everything good is private (i swear) lmao 😂.
 
 
 <!--
