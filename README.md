@@ -5,10 +5,6 @@ Hi! I'm a Software Engineer and believe it or not i'm not 🌠 Bojack Horseman �
 I currently work as a Full Stack Developer. 
 
 Hopefully when I start working on my personal projects you will see repos about software related to web dev, computer graphics, videogames, ML, DL and hopefully contribute to some open source libraries.
-
-The repos that you are seeing now are old college stuff, everything good is private (I swear) lmao 😂.
-
-
 <!--
 **bojackhorseman0309/bojackHorseman0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
